@@ -2,6 +2,7 @@
 
 font-family: 'Courier New', Courier, monospace;}
 
+audio{display: none;}
 .logo{font-size:30px;
 font-weight: bolder;}
 .fline{background-color: rgb(224, 109, 68);
